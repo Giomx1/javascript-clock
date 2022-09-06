@@ -1,0 +1,15 @@
+div {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid green;
+  border-radius: 400px;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  text-align: center;
+  font-weight: bold;
+  font-size: 100px;
+}
+h1 {
+  text-align: center;
+}
